@@ -6,13 +6,10 @@ A calm web browser for the Mudita Kompakt, made for E Ink. Pages turn screen by 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
 
-## Beta
-This app is in beta, and testers are welcome. Install it, use it, and report what you find in [Issues](../../issues). The final version will install over the beta, so you won't end up with two apps.
-
 ## What it can do
 - **Page turning:** read the web screen by screen, with on-screen arrows or the volume keys
 - **Reader mode:** full screen, only the text and pictures of an article, with text size and bookmark on a pull-out bar
-- **Top row:** Tabs on the left, the page's name in the middle and Settings on the right. Tap the name to type an address or a search
+- **Top row:** Tabs on the left, the page's name in the middle with refresh, and Settings on the right. Tap the name to type an address or a search
 - **Tabs:** up to three, regular or private, with QR code, bookmark and reader mode for the page you're on
 - **Your own search engine:** none is built in, you type the one you want in Settings
 - **Bookmarks:** saved pages can be read offline in reader mode
